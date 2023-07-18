@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* nav style */
+
+.right-nav-container{
+    display:flex;
+    align-items: center;
+}
+.left-nav-container{
+
+}
+.left-nav-container> ul a{
+    text-decoration: none;
+}
