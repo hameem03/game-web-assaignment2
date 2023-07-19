@@ -258,9 +258,32 @@
     display: none;
 }
 
+/* game itams start */
+
 .game-manu-container{
+    margin-top: 150px;
     display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+/
 }
+.manu-items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.game-manu-container2{
+    margin-top: 50px;
+}
+
+/* game itams end */
+
 
 
 
