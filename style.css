@@ -153,7 +153,18 @@
     font-weight: 500;
     padding: 10px;
 }
-
+.funny-images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 0;
+}
+.fun-image-desh{
+    width: 244px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    }
 
 /* Online Games Funny Videos end */
 
