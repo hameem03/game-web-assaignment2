@@ -24,7 +24,7 @@
     align-items: center;
     width: auto;
     height: 100px;
-    background: #a50404;
+    background: #ffffff;
     box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
 }
 
@@ -65,7 +65,6 @@
 
 /* banner style start */
 
-
 .banner{
     display: flex;
     justify-content: space-around;
@@ -88,6 +87,10 @@
 .game-span{
     color: #FF42A5;
 }
+
+/* .left-banner{
+    background-image: url(./images/Group\ 14.png);
+} */
 
 .banner-title2{
     font-size: 80px;
@@ -126,6 +129,33 @@
     background-color: #4EC5F7;
 }
 /* banner style end */
+
+
+/* Online Games Funny Videos start */
+.funny-info{
+    text-align: center;
+    padding: 50px 0;
+}
+.funny-title{
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+}
+.funny-color{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.funny-desh{
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+
+/* Online Games Funny Videos end */
 
 
 
