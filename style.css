@@ -6,7 +6,7 @@
 
 
 /* font awesomr */
-.fa-brands{
+.fa-youtube{
     color: red;
     padding: 5px;
 }
@@ -34,7 +34,7 @@
     border-radius: 5px;
 }
 
-.right-nav-container{
+.primary-title{
     display:flex;
     align-items: center;
     margin-left: 200px;
@@ -280,11 +280,69 @@
 
 .game-manu-container2{
     margin-top: 50px;
+    margin-bottom: 70px;
 }
 
 /* game itams end */
 
 
+/* footer section start */
+
+.footer-container{
+    text-align: center;
+    width: auto;
+    height: 636px;
+    flex-shrink: 0;
+    background: #0B0223;
+}
+.logo-game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    gap: 15px;
+}
+.footer-title{
+    color: #FFF;
+}
+
+.footer-service ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 100px;
+
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+.social-media ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px ;
+}
+
+.fb-icon{
+    width: 60px;
+    height: 40px;
+}
+.fa-brands {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+/* .fa-brands{
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    } */
+/* footer section end */
 
 
 
@@ -300,7 +358,7 @@
         height: auto;
         justify-content: center;
     }
-    .right-nav-container{
+    .primary-title{
         flex-direction: column;
         width: 1400px;
         height: auto;
