@@ -335,7 +335,10 @@
     height: 100%;
 }
 
-
+.copyright{
+    color: white;
+    margin-top: 200px;
+}
 
 /* .fa-brands{
     width: 40px;
