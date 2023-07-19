@@ -258,6 +258,10 @@
     display: none;
 }
 
+.game-manu-container{
+    display: flex;
+}
+
 
 
 
