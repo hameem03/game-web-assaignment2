@@ -5,20 +5,6 @@
 }
 
 
-
-
-
-/* nav style start*/
-.navber{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: auto;
-    height: 100px;
-    background: #ffffff;
-    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
-}
-
 /* font awesomr */
 .fa-brands{
     color: red;
@@ -30,14 +16,16 @@
 /* font awesomr */
 
 
-.game-logo{
-    font-size: 35px;
-    font-weight: 700;
-    color: #0B0223;
-    padding: 15px;
-}
-.game-span{
-    color: #FF42A5;
+
+/* nav style start*/
+.navber{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    height: 100px;
+    background: #a50404;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
 }
 
 .nav-font-awesome{
@@ -89,6 +77,18 @@
     font-weight: 600;
     text-transform: uppercase;
 }
+
+
+.game-logo{
+    font-size: 35px;
+    font-weight: 700;
+    color: #0B0223;
+    padding: 15px;
+}
+.game-span{
+    color: #FF42A5;
+}
+
 .banner-title2{
     font-size: 80px;
     font-weight: 800;
@@ -126,3 +126,27 @@
     background-color: #4EC5F7;
 }
 /* banner style end */
+
+
+
+
+
+
+
+
+/* media quari start */
+/* @media screen and (max-width:576px) {
+    .navber{
+        flex-direction: column;
+        width: 1400px;
+        height: auto;
+        justify-content: center;
+    }
+    .right-nav-container{
+        flex-direction: column;
+        width: 1400px;
+        height: auto;
+    }
+} */
+
+/* media quari end */
