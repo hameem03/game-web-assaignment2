@@ -170,6 +170,96 @@
 
 
 
+/* play game style start */
+.play-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+    width: 1920px;
+    height: auto;
+    padding: 50px 0;
+    background: #FFF;
+
+}
+.play-left-container{
+    position: relative;
+}
+
+.big-image{
+    position: relative;
+}
+.small-image{
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    
+}
+
+.play-title{
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+}
+.play-desh{
+    width: 480px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+
+/* play game style end */
+
+
+/* play game style start */
+.play-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+    width: 1920px;
+    height: auto;
+    padding: 50px 0;
+    background: #FFF;
+
+}
+.play-left-container{
+    position: relative;
+}
+
+.big-image{
+    position: relative;
+}
+.small-image{
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    
+}
+
+.play-title{
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+}
+.play-desh{
+    width: 480px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+
+/* play game style end */
+.hide{
+    display: none;
+}
+
+
+
 
 
 
