@@ -133,6 +133,63 @@
     background-color: #4EC5F7;
 }
 /* banner style end */
+/* we are gamer section start */
+
+.we-are-gamer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.right-contaner{
+    
+}
+.we-are-gamer-title{
+    text-align: right;
+    font-size: 25px;
+    font-family: Work Sans;
+    font-weight: 800;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 20px;
+    }
+.we-are-gamer-desh{
+    text-align: right;
+    width: 520px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.we-are-gamer-btn2{
+    text-align: right;
+    padding: 20px 40px;
+}
+.we-are-gamer-btn1{
+    padding: 20px 0;
+    text-align: right;
+}
+.we{
+    text-align: right;
+    color: #534C64;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 10px 0;
+}
+.are{
+    text-align: right;
+    color: #534C64;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    }
+/* we are gamer section end */
 
 
 /* Online Games Funny Videos start */
