@@ -283,6 +283,13 @@
     margin-bottom: 70px;
 }
 
+.manu-items:hover{
+    color: #918686;
+    border: 5px solid #918686;
+    padding: 13px;
+    border-radius: 50px;
+}
+
 /* game itams end */
 
 
