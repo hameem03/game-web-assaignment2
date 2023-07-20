@@ -161,7 +161,7 @@
     display: flex;
     justify-content: center;
     /* align-items: center; */
-    gap: 10px;
+    gap: 50px;
 }
 .fun-image-desh{
     width: 244px;
